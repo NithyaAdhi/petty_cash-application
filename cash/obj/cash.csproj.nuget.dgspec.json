@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet\\cash\\cash.csproj": {}
+    "C:\\Users\\DELL\\Documents\\github\\petty_cash-application\\cash\\cash.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\cash\\cash.csproj": {
+    "C:\\Users\\DELL\\Documents\\github\\petty_cash-application\\cash\\cash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\cash\\cash.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\github\\petty_cash-application\\cash\\cash.csproj",
         "projectName": "cash",
-        "projectPath": "D:\\dotnet\\cash\\cash.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\github\\petty_cash-application\\cash\\cash.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\cash\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\github\\petty_cash-application\\cash\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
